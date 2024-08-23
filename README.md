@@ -32,14 +32,13 @@ irm https://massgrave.dev/get | IEX
 *   That's all :)
 
 **NOTE**:
-
 - On older Windows builds you may need to run the below command beforehand
 
 ```powershell  
 [Net.ServicePointManager]::SecurityProtocol=[Net.SecurityProtocolType]::Tls12
 ```  
 * The PowerShell method does not work on Windows 7. Use the Method 2 - Traditional instead.  
-* The domain `get.activated.win` may be blocked by some DNS services because it is a new domain.
+* The domain <https://get.activated.win> may be blocked by some DNS services because it is a new domain.
 
 ## Method 2 - Traditional
 
