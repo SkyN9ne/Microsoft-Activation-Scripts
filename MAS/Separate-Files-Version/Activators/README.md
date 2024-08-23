@@ -1,3 +1,5 @@
+# Activator List
+
 --------------------------------------------------------------------------------------
 Activation Type        Supported Product        Activation Period
 --------------------------------------------------------------------------------------
@@ -9,4 +11,4 @@ Online KMS          -  Windows / Office      -  180 Days. Lifetime With Renewal 
 
 --------------------------------------------------------------------------------------
 
-For more details, use the respective docs section here https://massgrave.dev/
+For more details, use the respective docs section here <https://massgrave.dev>
